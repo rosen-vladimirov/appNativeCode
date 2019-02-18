@@ -1,0 +1,5 @@
+module NativeScriptExample {
+    umbrella header "MyClass.h"
+    export *
+    module * { export * }
+}
