@@ -6,7 +6,8 @@
         },
         "tns-ios": {
             "version": "6.1.0"
-        }
+        },
+        "templateVersion": "v2"
     },
     "description": "NativeScript Application",
     "license": "SEE LICENSE IN <your-license-filename>",
